@@ -1,0 +1,10 @@
+﻿Post,ViewPoint1,ViewPoint2,ViewPoint3,ViewPoint4,ViewPoint5,ViewPoint6,ViewPoint7,ViewPoint8,ViewPoint9,ViewPoint10,ViewPoint11,ViewPoint12,ViewPoint13,ViewPoint14,ViewPoint15,ViewPoint16,ViewPoint17,ViewPoint18,ViewPoint19,ViewPoint20,ViewPoint21,ViewPoint22,ViewPoint23,ViewPoint24,ViewPoint25,ViewPoint26
+User1,-1,-1,0,1,1,-1,-1,1,1,1,1,1,1,1,-1,1,1,1,-1,1,1,1,1,1,-1,1
+User2,1,1,1,0,1,1,1,1,1,-1,1,-1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+User3,1,1,1,1,0,1,1,1,1,-1,1,-1,1,1,1,1,1,1,1,1,1,1,1,-1,1,1
+User4,1,1,1,1,1,0,1,1,1,1,1,-1,1,1,1,1,1,1,1,1,1,1,1,-1,1,1
+User5,-1,1,1,1,1,0,-1,1,1,1,1,1,1,1,-1,1,1,1,1,1,1,1,1,1,-1,1
+User6,1,-1,1,1,1,1,-1,1,1,1,1,1,1,1,-1,0,1,1,-1,1,1,1,1,1,-1,1
+User7,1,1,-1,1,1,1,1,-1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1
+User8,-1,-1,1,1,1,1,-1,1,1,1,1,1,1,1,-1,1,1,1,-1,1,1,1,1,1,-1,1
+User9,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,-1,1,1,1,1,1,1,1
